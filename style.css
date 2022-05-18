@@ -1,0 +1,19 @@
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Playfair Display', serif;
+}
+.navbar-brand
+{
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+.blog-post
+{
+    margin-bottom: 30px;
+}
+.blog-post-title
+{
+    font-size: 24px;
+    
+}
